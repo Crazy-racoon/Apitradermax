@@ -1,0 +1,21 @@
+{
+    "name": "crazyracoon/apitradermax",
+    "type": "library",
+    "require": {
+        "php": "8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CrazyRacoon\\Apitradermax\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Max Vikulin",
+            "email": "3906447m@gmail.com"
+
+        }
+    ],
+    "minimum-stability": "dev"
+}
